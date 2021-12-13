@@ -35,3 +35,12 @@
 .controlColumn {
   width: 50%;
 }
+
+.bottomBox {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 40%;
+  width: 100%;
+  background-color: hsl(195deg, 20%, 86%);
+}
